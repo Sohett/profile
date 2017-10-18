@@ -6,3 +6,12 @@
   bottom: 0;
   background-color: #4c4c4c;
 }
+
+#sidebar i{
+  font-size: 25px;
+  color: #295280;
+}
+
+#sidebar i:hover{
+  color: #266ab9;
+}
