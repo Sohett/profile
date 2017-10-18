@@ -8,14 +8,15 @@
 }
 
 #sidebar li {
+  display: inline-block;
   margin: 50px 0;
 }
 
 #sidebar i{
   font-size: 25px;
-  color: #295280;
+  color: #266ab9;
 }
 
 #sidebar i:hover{
-  color: #266ab9;
+  color: #295280;
 }
