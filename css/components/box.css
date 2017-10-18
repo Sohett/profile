@@ -1,0 +1,58 @@
+.box {
+  background: rgba(237, 237, 237, 0.8);
+  margin: 10px;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 2px 2px 4px #1f1f1f;
+}
+
+#box1 {
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+#box2 {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+
+#box3 {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+.box i {
+  font-size: 25px;
+  color: rgba(29, 31, 33, 1.000);
+}
+
+#box3 a{
+  text-decoration: none;
+	color: #295280;
+}
+
+#box3 a:hover{
+  text-decoration: none;
+	color: #266ab9;
+}
+
+.box i {
+  text-decoration: none;
+  color: #295280;
+}
+
+.box i:hover {
+  text-decoration: none;
+  color: #266ab9;
+}

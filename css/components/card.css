@@ -1,0 +1,48 @@
+.card {
+	height: 400px;
+	color: white;
+	/*background-image: url('../../images/peche.jpg');*/
+	position: relative;
+	margin-bottom: 10px;
+	margin-top: 30px;
+	margin-bottom: 60px;
+}
+
+.card:hover{
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+#rowyourdream_map {
+	background: linear-gradient(135deg,rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 50%),url('../../images/map.png');
+	background-size: cover;
+}
+
+#rowyourdream_logo {
+	background: linear-gradient(135deg,rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 50%),url('../../images/logo.png');
+	background-size: cover;
+}
+
+#rowyourdream_boat {
+	background: linear-gradient(135deg,rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.1) 50%),url('../../images/boat.jpg');
+	background-size: cover;
+}
+
+
+.card-category {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+.card-description {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+}
+
+.card-avatar {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}

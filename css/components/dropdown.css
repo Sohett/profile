@@ -1,0 +1,38 @@
+
+
+.dropdown img {
+	opacity: 1;
+}
+
+.dropdown img:hover {
+	opacity: 0.6;
+}
+
+.dropdown-menu >li >a {
+	font-weight: lighter;
+	color: #aaaaaa;
+}
+
+.dropdown-menu >li >a:hover {
+	color: #e6e6e6;
+	background-color: #7d7d7d;
+}
+
+.dropdown span {
+	position: absolute;
+	top: -55px;
+	left: 40px;
+}
+
+.dropdown span:hover {
+	background-color: #ffffff;
+	color: rgba(236, 60, 0, 1.000);
+}
+
+
+#badge-dropdown {
+position: absolute;
+top:-42px;
+left: 60px;
+}
+
