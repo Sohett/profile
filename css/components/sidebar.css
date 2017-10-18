@@ -1,0 +1,22 @@
+#sidebar {
+  position: fixed;
+  width: 100px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #4c4c4c;
+}
+
+#sidebar li {
+  display: inline-block;
+  margin: 50px 7px;
+}
+
+#sidebar i{
+  font-size: 25px;
+  color: #266ab9;
+}
+
+#sidebar i:hover{
+  color: #295280;
+}
