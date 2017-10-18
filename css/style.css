@@ -28,7 +28,7 @@ h1, h2, h3 {
 
 #sidebar {
   position: fixed;
-  width: 300px;
+  width: 100px;
   left: 0;
   top: 0;
   bottom: 0;
